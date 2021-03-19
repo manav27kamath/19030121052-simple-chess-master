@@ -10,11 +10,14 @@ div: B
 #Open terminal or node js terminal then:
 cd directory-name
 
-# first step
+# first step:
 npm install
 
-# Second step
+# Second step:
 npm i gulp-cli -g
 
-# Third step
+# Third step if gulp is not installed:
+npm install gulp
+
+# Fourth step:
 gulp watch
