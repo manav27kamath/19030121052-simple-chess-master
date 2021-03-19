@@ -16,8 +16,5 @@ npm install
 # Second step:
 npm i gulp-cli -g
 
-# Third step if gulp is not installed:
-npm install gulp
-
-# Fourth step:
+# Third step:
 gulp watch
